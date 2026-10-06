@@ -62,7 +62,7 @@
     "typescript": "^5",
     "typescript-eslint": "^8.70.0",
     "vitest": "^4.0.15",
-    "wrangler": "4.131.2"
+    "wrangler": "4.143.0"
   },
   "overrides": {
     "brace-expansion@^1": "1.1.21",
