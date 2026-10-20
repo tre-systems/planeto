@@ -31,7 +31,7 @@
     "@sentry/react": "^10.76.2",
     "immer": "^11.1.18",
     "nanoid": "^3.3.19",
-    "next": "16.4.0",
+    "next": "16.4.2",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
     "simplex-noise": "^4.0.3",
@@ -40,17 +40,17 @@
     "zustand": "^5.0.15"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^5.20261012.1",
+    "@cloudflare/workers-types": "^5.20261013.1",
     "@eslint/eslintrc": "^3",
-    "@next/eslint-plugin-next": "^16.4.0",
-    "@playwright/test": "^1.64.0",
+    "@next/eslint-plugin-next": "^16.4.2",
+    "@playwright/test": "^1.64.1",
     "@sentry/cli": "^3.7.0",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^24",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "16.4.0",
+    "eslint-config-next": "16.4.2",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-react": "^7.37.5",
@@ -62,7 +62,7 @@
     "typescript": "^5",
     "typescript-eslint": "^8.71.2",
     "vitest": "^4.1.12",
-    "wrangler": "4.149.0"
+    "wrangler": "4.150.0"
   },
   "overrides": {
     "brace-expansion@^1": "1.1.21",
